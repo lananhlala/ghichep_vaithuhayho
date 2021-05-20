@@ -5,3 +5,6 @@ pass_word
 passWord
 user
 username
+my_pass_word
+my_pass
+my_password
