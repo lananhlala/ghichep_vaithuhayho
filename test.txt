@@ -3,3 +3,5 @@ PassWord
 pass
 pass_word
 passWord
+user
+username
